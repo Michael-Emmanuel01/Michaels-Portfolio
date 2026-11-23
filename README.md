@@ -13,11 +13,15 @@ I clean, analyze, and visualize data to answer real questions. I enjoy finding t
 
 ## Projects
 **Built an interactive Excel dashboard analyzing 10K+ orders ($725.5K in sales), uncovering a 92% revenue dependence on one product division and a 61% revenue increase from 2022 to 2024, and recommending strategies for diversification, shipping, and regional growth.**
-
+![image](Product dB.jpg)
 
 **Analysed 7,043 telecom customers to find out why 26.5% of them left and what it costs. The three-page interactive dashboard shows that month-to-month contracts account for 1,655 of the 1,869 churned customers (about 89%), fiber optic and electronic check customers churn the most, and the first 12 months are the riskiest period. It puts the monthly revenue lost at 139.13K and turns the findings into four retention actions: move customers to longer contracts, fix fiber optic quality and pricing, encourage automatic payments, and onboard new customers better**
+![image](POWER BI(HOME PAGE).jpg)
+![image](POWER BI(PAGE 1).jpg)
+![image](POWER BI(PAGE 2).jpg)
 
 **Built an interactive Excel dashboard that turns 54,966 patient records and $1.4B in billing into clear decisions: it shows that elderly patients drive 31% of revenue, that admission types and conditions are evenly balanced, and where to focus wellness and chronic-care programmes**
+![image](MED DB.jpg)
 
 ## Let's connect
 - Email: michaelemmanuel685@gmail.com
